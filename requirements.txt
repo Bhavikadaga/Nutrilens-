@@ -1,0 +1,8 @@
+streamlit>=1.40
+pandas
+numpy
+pillow
+altair
+scikit-learn
+# Install when Member 2's model is ready (needed for real predictions + evaluation):
+# tensorflow
